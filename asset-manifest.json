@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/gymnasium/static/css/main.4795b29a.css",
+    "main.js": "/gymnasium/static/js/main.360b0e46.js",
+    "static/media/Hero.png": "/gymnasium/static/media/Hero.dcfb559fde4d08299b67.png",
+    "static/media/Hero-bg.jpg": "/gymnasium/static/media/Hero-bg.ed25cf688179d069d559.jpg",
+    "static/media/about-img.jpg": "/gymnasium/static/media/about-img.b9f8adfe007d4a1147e1.jpg",
+    "static/media/card-1.jpg": "/gymnasium/static/media/card-1.a23800ed365bad9068b7.jpg",
+    "static/media/card-3.jpg": "/gymnasium/static/media/card-3.664ed1a49525a22b772d.jpg",
+    "static/media/card-2.jpg": "/gymnasium/static/media/card-2.86ddda080f745a03fe7c.jpg",
+    "index.html": "/gymnasium/index.html",
+    "main.4795b29a.css.map": "/gymnasium/static/css/main.4795b29a.css.map",
+    "main.360b0e46.js.map": "/gymnasium/static/js/main.360b0e46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4795b29a.css",
+    "static/js/main.360b0e46.js"
+  ]
+}
